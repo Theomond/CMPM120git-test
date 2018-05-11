@@ -1,0 +1,7 @@
+The Phaser gitub link https://github.com/photonstorm/phaser (Links to an external site.)
+
+The Current issues that are being resolved on the projects like scene transitions causes rendering oder to be 
+swapped in v3.7.1. A high priority issue is a bug that interactive objects don't get removed in the input manager, etc.
+The policy on contributions for phaser aims to allow for anyone who enjoys the product to contribute to the best of thier
+thier abilities. The one thing they don't consider as contribution is changing the phaser source code into a format
+/ coding style all pr's are requred to stick to thier coding style. 
