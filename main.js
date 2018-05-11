@@ -1,2 +1,1 @@
-x = "how do you do";
-y = "What is happening?"
+console.log("how do you do?");
